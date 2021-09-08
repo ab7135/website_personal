@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ab7135@stern.nyu.edu
+phone: 929 215 24 34
 address:
   street: 44 West 4th Street
   city: New York
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '40.7291'
   longitude: '-73.9962'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Suite 9.193 A
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
