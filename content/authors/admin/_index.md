@@ -31,7 +31,7 @@ education:
   - course: M.Phil. in Finance
     institution: NYU Stern School of Business
     year: 2021
-  - course: Dual Degree (B.Tech, M.Tech.) in Metallurgical Engineering
+  - course: Dual Degree in Metallurgical Engineering
     institution: Indian Institute of Technology, Kharagpur
     year: 2012
 
