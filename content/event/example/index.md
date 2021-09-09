@@ -1,5 +1,5 @@
 ---
-title: Old Wine in New Bottles: Why do Relationships Matter in Securitized Lending?
+title: Example Talk
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "This paper shows that bank relationships are valuable for firms in the originate-to-distribute market for loans because they insure them against fire-sale risk in the secondary loan market. Using comprehensive data on securitized corporate loans, I show that banks develop institutional relationships with Collateralized Loan Obligations (CLO) managers through their securities underwriting business. These institutional relationships make it less likely that firms related to the CLO underwriter are fire-sold when managers face a liquidity shock. As a result, relationship firms experience lower price impact and issue more loans during a liquidity crunch. Banks benefit from the underwriting fee on these issuances and compensate the CLO managers by arranging cheaper debt financing on their new deals. Overall, I show that securitization has not eliminated the value of relationships but has transformed the mechanism through which they enhance firms' borrowing capacity."
+abstract: "This is a test abstract."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
