@@ -19,7 +19,6 @@ bio: My research interests include financial intermediation, corporate finance, 
 # Interests to show in About widget
 interests:
 - Financial Intermediation
-- Corporate Finance
 - Household Finance
 
 # Education to show in About widget
@@ -42,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:ab7135@stern.nyu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/abhi_bwj
@@ -70,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Finance at the NYU Stern School of Business. My research focuses on Financial Intermediation, Corporate Finance, and Household Finance.
+I am a Ph.D. Candidate in Finance at the NYU Stern School of Business. My research focuses on Non-Bank Financial Intermediation and Household Finance.
 
 I am on the job-market during the 2021-2022 academic year.
 
