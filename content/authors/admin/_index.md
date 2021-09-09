@@ -14,7 +14,7 @@ organizations:
   url: https://www.stern.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include financial intermediation, corporate finance, and household finance.
+bio: My research interests include non-bank financial intermediation and household finance.
 
 # Interests to show in About widget
 interests:
@@ -58,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
